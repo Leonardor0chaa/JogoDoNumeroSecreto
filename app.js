@@ -412,5 +412,5 @@ function reiniciarJogo() {
     limparCampo();
     tentativas = 1;
     exibirMensagemInicial();
-    document.getElementById('reinciar').setAttribute('desabled', true);
+    document.getElementById('reiniciar').setAttribute('desabled', true);
 }
